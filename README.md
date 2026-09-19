@@ -1,7 +1,5 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
-
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
 ###   An engine mechanism is shown. The Crank CB = 200mm and the connecting rod BA = 600mm. In the position shown, the crankshaft has a speed of 50 rad/s and an angular acceleration of 800 rad/s2
@@ -45,9 +43,23 @@
 
 ## Output
 
+### Name: VENKATANATHAN P R
+### Register Number: 212223240173
 
-### Name:
-### Register Number: 
+
+### Velocity analysis of Slider crank mechanism:
+
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/d13e3496-e584-49c5-a34f-fe08bac70184" />
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/2366272a-d536-4b7b-b0f4-8ba256c49134" />
+
+### Acceleration analysis of Slider crank mechanism:
+
+<img width="1919" height="744" alt="image" src="https://github.com/user-attachments/assets/55164da7-c85c-48ba-b30b-cf01d5562ab4" />
+
+<img width="1919" height="852" alt="image" src="https://github.com/user-attachments/assets/85b65b3d-fa83-4918-a847-01ad15443e8d" />
+
+<img width="1865" height="912" alt="image" src="https://github.com/user-attachments/assets/9ef34ec2-387d-49f7-a152-43da96ba48fa" />
 
 ## RESULT:
-### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
