@@ -43,9 +43,6 @@
 
 ## Output
 
-### Name: VENKATANATHAN P R
-### Register Number: 212223240173
-
 
 ### Velocity analysis of Slider crank mechanism:
 
